@@ -6,7 +6,7 @@
 
 Files are loaded from the OS and can be saved at the same location. 
 
-> If the screenview is too narrow then the preview doesn't display. 
+> If the screenview is too narrow then the preview display on a button in the NavBar. 
 
 ## Getting Started
 
